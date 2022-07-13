@@ -9,7 +9,7 @@ namespace WPFDesigner_XML
       /// <summary>
       /// Required designer variable.
       /// </summary>
-      private System.ComponentModel.IContainer components = null;
+    
       private HostSurface _hostSurface;
 
       public HostControl(HostSurface hostSurface)
@@ -46,7 +46,7 @@ namespace WPFDesigner_XML
 
          }
 
-         catch (Exception ex)
+         catch (Exception )
          {
             
          }
